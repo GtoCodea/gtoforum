@@ -1,4 +1,4 @@
-## Resumen de proyecto
+## gtoforum
 Este es el primer proyecto de la **Comunidad de Programadores del Estado de Guanajuato**, el cual fue concebido con la idea de entablar comunicación de todas las inquietudes de las personas con respecto a la comunidad, las cuales, serán procesadas y canalizadas dependiendo de lo que se desee lograr, poniendo a la orden una plataforma nueva para los usuarios y miembros de la comunidad.
 
 

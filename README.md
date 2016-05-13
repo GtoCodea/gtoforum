@@ -24,7 +24,7 @@ Carlos Valdez
 
 
 ## Licencia
-Copyright 2016 GtoCodea
+Copyright GtoCodea 2016
 
 Este sistema está protegido con la licencia GPL
 
